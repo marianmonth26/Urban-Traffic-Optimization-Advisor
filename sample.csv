@@ -1,0 +1,5 @@
+timestamp,junction,approach,route,vehicles,duration_minutes,lanes,avg_speed_kmph
+2026-10-01T08:00:00,Central Square,North,Main corridor,240,15,2,18
+2026-10-01T08:00:00,Central Square,South,Main corridor,180,15,2,24
+2026-10-01T08:00:00,Central Square,East,Riverside corridor,90,15,2,35
+2026-10-01T08:00:00,Central Square,West,Riverside corridor,120,15,2,30
